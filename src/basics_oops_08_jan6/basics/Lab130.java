@@ -7,6 +7,7 @@ public class Lab130 {
         String name2 = new String("Pramod"); // Heap area
 
         name = "Dutta";
+        System.out.println(name);
 
         String str1 = "Hello";
         str1  = str1.concat("Pramod");
